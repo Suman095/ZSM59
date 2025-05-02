@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Defintion'
+define service Z95SD_Connection_TM {
+  expose Z95I_Connection_TM_v1 as Connection;
+}
