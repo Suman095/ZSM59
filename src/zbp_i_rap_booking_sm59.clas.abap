@@ -1,0 +1,5 @@
+CLASS zbp_i_rap_booking_sm59 DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_rap_travel_sm59.
+ENDCLASS.
+
+CLASS zbp_i_rap_booking_sm59 IMPLEMENTATION.
+ENDCLASS.
